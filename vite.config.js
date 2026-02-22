@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/sn-nhu-nguyet/', // <--- THÊM DÒNG NÀY VÀO ĐÂY
+  base: '/sn-nhu-nguyet/',
   plugins: [react()],
 })
